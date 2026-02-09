@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=grahithrao&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **grahithrao/grahithrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
