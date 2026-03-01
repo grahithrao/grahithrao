@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Grahith Rao</h1>
-<h3 align="center">🚀 Frontend Developer | AI/ML Enthusiast | AIML Engineer </h3>
+<h1 align="center">Hi , I'm Grahith Rao</h1>
+<h3 align="center">🚀 Web Developer | AI/ML Enthusiast | AIML Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=grahithrao&label=Profile%20Views&color=0e75b6&style=flat" alt="grahithrao" />
