@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Grahith Rao</h1>
+<h3 align="center">🚀 Frontend Developer | AI/ML Enthusiast | AIML Engineer </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=grahithrao&label=Profile%20Views&color=0e75b6&style=flat" alt="grahithrao" />
+</p>
+
+---
 # 💫 About Me:
 👨‍💻 Passionate Web Developer<br>🎓 3rd-Year CSE Student @ AJIET<br>🔧 Full-Stack | WordPress | Shopify<br>🤖 Learning & implementing AI/ML solutions<br>🚀 Turning ideas into impactful applications
 
