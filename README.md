@@ -30,10 +30,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=grahithrao&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=grahithrao&limit=2&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=grahithrao&icon=0&color=1)](https://visitcount.itsvg.in)
+---
+<h2 align="center">🌊 Contribution Activity</h2>
+
+<!-- 3D Wave Style Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethumalli&theme=transparent&hide_border=true&area=true&bg_color=000000&color=00FFFB&line=00FFFB" width="90%" alt="Contribution Graph">
+</div>
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
